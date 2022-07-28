@@ -9,7 +9,7 @@
 akibrot/akibrot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-const getToKnowMicky = {
+const getToKnowMe = {
     fullName: "Akibrot Samuel Daka",
     origin: "Ethiopia 🇪🇹",
     jobStatus: ["Full stack web and mobile app developer"],
