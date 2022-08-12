@@ -18,12 +18,11 @@ Im Akibrot samuel born and raised in Dilla, Gedeo Zone, Ethiopia .I graduated fr
 
 
 <h2>Simply</h2> 
-
-:tw-1f466:`Akibrot Samuel `
-:tw-1f393:`Computer science gradute `
-:tw-1f3e2:`From jimma university Inistitute of Technology`
-:tw-2709:`Email Address `akibrotsamuelas@gmail.com
-:tw-1f4de:`Phone` 0989489349 / 0934680311
+:man: <b>Akibrot Samuel </b><br>
+:computer: <b>Computer science gradute </b><br>
+:office: <b>From jimma university Inistitute of Technology</b><br>
+:mailbox: <b>Email Address </b> akibrotsamuelas@gmail.com<br>
+:telephone_receiver: <b>Phone</b> 0989489349 / 0934680311
 
 
 
