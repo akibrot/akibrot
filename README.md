@@ -1,23 +1,23 @@
-
-#Profile.md
-
-
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20210210123840/20210210123720.gif)
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
-##about me
+<h1>about me</h1>
+<p>
+
+
 Im Akibrot samuel born and raised in Dilla, Gedeo Zone, Ethiopia .I graduated from Jimma technology campus in 2022 with GPA 3.6 in bachelor of science of computer science . I am self learner i learned latest programming technologies by my self (flutter ,nodejs, reactjs, dart etc..) (which is not included in our campus curriculum ). i am hard worker , i am be able to sit all day and code till the project is finished,i am creative ,designer i design and implement beautiful UI with the great UX. I am responsible i take chargers ,confident,disciplined,accountable and patriotic.
 
+</p>
 
-###Published works
+<h2>Published works</h2>
 
-####Fullstack web applications
-[Ethiopian heritages](https://ethiopianheritages.netlify.app/) 
+<h3>Fullstack web applications</h3> <br>
+[Ethiopian heritages](https://ethiopianheritages.netlify.app/) <br>
 [Portofolio Site](https://akibrot-samuel.netlify.app/)
 
 
 
-###Simply 
+<h2>Simply</h2> 
 
 :tw-1f466:`Akibrot Samuel `
 :tw-1f393:`Computer science gradute `
@@ -27,7 +27,7 @@ Im Akibrot samuel born and raised in Dilla, Gedeo Zone, Ethiopia .I graduated fr
 
 
 
-####Get to Know me　
+<h3>Get to Know me<h3>　
 
 ```javascript
 const getToKnowMe = { 
