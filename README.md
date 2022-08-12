@@ -40,7 +40,7 @@ age: 22,
 isWorkingNow: false, 
 educationLevel: { bachlorsDegree: "Computer science",
 isCompleted: true, }, 
-socialMedias: ["[link]LinkedIn","Telegram", "WhatsApp", "Twitter"], 
+socialMedias: ["LinkedIn","Telegram", "WhatsApp", "Twitter"], 
 codingEnviroment: "Github", 
 nowLearning: ["Artificial intelligence (AI)"],
 lookingForNewOpportunities: true
