@@ -5,7 +5,7 @@
 <p>
 
 
-Im Akibrot samuel born and raised in Dilla, Gedeo Zone, Ethiopia .I graduated from Jimma technology campus in 2022 with GPA 3.6 in bachelor of science of computer science . I am self learner i learned latest programming technologies by my self (flutter ,nodejs, reactjs, dart etc..) (which is not included in our campus curriculum ). i am hard worker , i am be able to sit all day and code till the project is finished,i am creative ,designer i design and implement beautiful UI with the great UX. I am responsible i take chargers ,confident,disciplined,accountable and patriotic.
+Im Akibrot samuel born and raised in Dilla, Gedeo Zone, Ethiopia .I graduated from Jimma technology campus in 2022 with CGPA 3.58 in bachelor of science of computer science . I am self learner i learned latest programming technologies by my self (flutter ,nodejs, reactjs, dart etc..) (which is not included in our campus curriculum ). i am hard worker , i am be able to sit all day and code till the project is finished,i am creative ,designer i design and implement beautiful UI with the great UX. I am responsible i take chargers ,confident,disciplined,accountable and patriotic.
 
 </p>
 
@@ -31,19 +31,18 @@ Im Akibrot samuel born and raised in Dilla, Gedeo Zone, Ethiopia .I graduated fr
 ```javascript
 const getToKnowMe = { 
 fullName: "Akibrot Samuel Daka",
-origin: "Ethiopia ethiopia", 
+origin: "Ethiopia", 
 jobStatus: ["Full stack web and mobile app developer"], 
 maritalStatus: "Single", 
 hobbies: ["playing games","Reading","Watching football"], 
-techLanguages:["dart","java","c++","JavaScript","HTML","php","nodejs","css"],
+techLanguages:["linux cli","dart","java","c++","JavaScript","HTML","php","nodejs","css"],
 frameWorks:["Flutter","Reactjs","Laravel","Scss","express",""], 
 age: 22, 
 isWorkingNow: false, 
 educationLevel: { bachlorsDegree: "Computer science",
 isCompleted: true, }, 
-socialMedias: ["LinkedIn","Telegram", "WhatsApp", "Twitter"], 
-codingEnviroment: "Github", 
-nowLearning: ["Artificial intelligence (AI)"],
+socialMedias: ["LinkedIn","Telegram", "youtube", "Twitter"], 
+codingEnviroment: "Linux (manjaro linux),
 lookingForNewOpportunities: true
 }
  
