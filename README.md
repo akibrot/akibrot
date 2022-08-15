@@ -42,7 +42,7 @@ isWorkingNow: false,
 educationLevel: { bachlorsDegree: "Computer science",
 isCompleted: true, }, 
 socialMedias: ["LinkedIn","Telegram", "youtube", "Twitter"], 
-codingEnviroment: "Linux (manjaro linux),
+codingEnviroment: "Linux (manjaro linux)",
 lookingForNewOpportunities: true
 }
  
