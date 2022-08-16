@@ -11,7 +11,7 @@ Im Akibrot samuel born and raised in Dilla, Gedeo Zone, Ethiopia .I graduated fr
 
 <h2>Published works</h2>
 
-<h3>Fullstack web applications that i built</h3> <br>
+<h3>Fullstack web applications that i published</h3> <br>
 [Ethiopian heritages final year project](https://ethiopianheritages.netlify.app/) <br>
 [Portofolio Site](https://akibrot-samuel.netlify.app/)
 
