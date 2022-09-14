@@ -5,7 +5,7 @@
 <p>
 
 
-Im Akibrot samuel from Addis Ababa, Ethiopia .I graduated from Jimma technology campus in 2022 with CGPA 3.58 in bachelor of science of computer science . I am self learner i learned latest programming technologies by my self (flutter ,nodejs, reactjs, dart etc..) (which is not included in our campus curriculum ). i am hard worker , i am be able to sit all day and code till the project is finished,i am creative ,designer i design and implement beautiful UI with the great UX. I am responsible i take chargers ,confident,disciplined,accountable and patriotic.
+Im Akibrot samuel  .I graduated from Jimma institite of technology  in 2022 with CGPA 3.58 in bachelor of science of computer science . I am self learner i learned latest programming technologies by my self (flutter ,nodejs, reactjs, dart etc..) (which is not included in our campus curriculum ). i am hard worker , i am be able to sit all day and code till the project is finished,i am creative ,designer i design and implement beautiful UI with the great UX. I am responsible i take chargers ,confident,disciplined,accountable and patriotic.
 
 </p>
 
