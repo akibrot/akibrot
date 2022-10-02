@@ -4,23 +4,30 @@
 <h1>about me</h1>
 <p>
 
-
-Im Akibrot samuel  .I graduated from Jimma institite of technology  in 2022 with CGPA 3.58 in bachelor of science of computer science . I am self learner i learned latest programming technologies by my self (flutter ,nodejs, reactjs, dart etc..) (which is not included in our campus curriculum ). i am hard worker , i am be able to sit all day and code till the project is finished,i am creative ,designer i design and implement beautiful UI with the great UX. I am responsible i take chargers ,confident,disciplined,accountable and patriotic.
+I am Solution-oriented hard worker, problem solver,responsible,confident ,adaptable to all
+challenging situations with multiple skills . I built and maintained multiple web and mobile
+applications . Highly skilled in communication, collaboration, and Time Management.
 
 </p>
 
 <h2>Published works</h2>
 
 <h3>Fullstack web applications that i published</h3> <br>
-[Ethiopian heritages final year project](https://ethiopianheritages.netlify.app/) <br>
-[Portofolio Site](https://akibrot-samuel.netlify.app/)
+[Ethiopian heritages final year project MERN ](https://ethiopianheritages.netlify.app/) <br>
+[Portofolio Site](https://akibrot-samuel.netlify.app/) <br>
+[Nextjs Ui Challenge](https://nextjs-front-end-m-a-d-technologies.vercel.app/) <br>
+[Nextjs Ecommerce ](https://apple-store-eth-nextjs-8ylz.vercel.app/) <br>
+[Flutter Ecommerce ](https://github.com/akibrot/apple-store-flutter-app) <br>
+[Nodejs Api ](https://github.com/akibrot/et-HBackEndProject) <br>
+
+
 
 
 
 <h2>Simply</h2> 
 :man: <b>Akibrot Samuel </b><br>
 :computer: <b>Computer science gradute </b><br>
-:office: <b>From jimma university Inistitute of Technology</b><br>
+:office: <b>From jimma university Inistitute of Technology CGPA 3.58</b><br>
 :mailbox: <b>Email Address </b> akibrotsamuelas@gmail.com<br>
 :telephone_receiver: <b>Phone</b> 0989489349 / 0934680311
 
@@ -33,14 +40,14 @@ const getToKnowMe = {
 fullName: "Akibrot Samuel Daka",
 origin: "Ethiopia", 
 jobStatus: ["Full stack web and mobile app developer"], 
-maritalStatus: "Single", 
+maritalStatus: "unmarried", 
 hobbies: ["playing games","Reading","Watching football"], 
 techLanguages:["linux cli","dart","java","c++","JavaScript","HTML","php","nodejs","css"],
-frameWorks:["Flutter","Reactjs","Laravel","Scss","express",""], 
-age: 22, 
+frameWorks:["Flutter","Reactjs","Nextjs","Laravel","Scss","express",""], 
+age: 23, 
 isWorkingNow: false, 
 educationLevel: { bachlorsDegree: "Computer science",
-isCompleted: true, }, 
+isCompleted: true,CGPA:3.58, }, 
 socialMedias: ["LinkedIn","Telegram", "youtube", "Twitter"], 
 codingEnviroment: "Linux (manjaro linux)",
 lookingForNewOpportunities: true
