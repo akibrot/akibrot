@@ -13,6 +13,10 @@ applications . Highly skilled in communication, collaboration, and Time Manageme
 <h2>Published works</h2>
 
 <h3>Fullstack web applications that i published</h3> <br>
+[Portfolio ](https://akibrotsamuel.vercel.app/) <br>
+[Next js with nodejs & express](https://www.haqilalab.org) <br>
+[Next js with nodejs & express](https://app.dtwsse.com) <br>
+[Flutter with nodejs & express](https://etcodertracker.vercel.app)/ <br>
 [Ethiopian heritages final year project MERN ](https://ethiopianheritages.netlify.app/) <br>
 [Portofolio Site](https://akibrot-samuel.netlify.app/) <br>
 [Nextjs Ui Challenge](https://nextjs-front-end-m-a-d-technologies.vercel.app/) <br>
@@ -49,7 +53,7 @@ isWorkingNow: false,
 educationLevel: { bachlorsDegree: "Computer science",
 isCompleted: true,CGPA:3.58, }, 
 socialMedias: ["LinkedIn","Telegram", "youtube", "Twitter"], 
-codingEnviroment: "Linux (manjaro linux)",
+codingEnviroment: "Linux (arch linux)",
 lookingForNewOpportunities: true
 }
  
